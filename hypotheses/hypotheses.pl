@@ -7,7 +7,7 @@
 %% Récuperation de toutes les combinaisons possibles d'hypothèses pour un type à une taille définie
 %% swipl -s hypotheses.pl -t get_hypotheses_limite --quiet -- exemples mammifere 3
 
-%% Récuperation de toutes les combinaisons possibles d'hypothèses pour un type à une taille maimale
+%% Récuperation de toutes les combinaisons possibles d'hypothèses pour un type à une taille maximale
 %% swipl -s hypotheses.pl -t get_hypotheses_limite_taille --quiet -- exemples mammifere 3
 
 %% Récuperation de toutes les combinaisons correctes et utilisables avec leurs exemples liés
