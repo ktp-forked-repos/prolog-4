@@ -1,10 +1,10 @@
 :- set_prolog_flag(verbose, silent).
 
 
-%% Récuperation de toutes les combinaisons possible d'hypothèses pour un type
+%% Récuperation de toutes les combinaisons possibles d'hypothèses pour un type
 %% swipl -s hypotheses.pl -t get_hypotheses --quiet -- exemples mammifere
 
-%% Récuperation de toutes les combinaisons possible d'hypothèses pour un type à une taille définie
+%% Récuperation de toutes les combinaisons possibles d'hypothèses pour un type à une taille définie
 %% swipl -s hypotheses.pl -t get_hypotheses_limite --quiet -- exemples mammifere 3
 
 %% Récuperation de toutes les combinaisons possibles d'hypothèses pour un type à une taille maimale
